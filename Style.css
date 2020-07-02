@@ -97,3 +97,38 @@ align-content: center;
    display: flex;
    
   }
+
+  .mid-img{
+    margin-left: 300px;
+    margin-top: 20px;
+  }
+
+  .img-card{
+    display:flex;
+  }
+
+  .card2{
+    margin-left: 120px;
+    margin-top: 70px;
+  width: 600px;
+  height: 300px;
+  }
+
+  .card2-head{
+    margin-left:100px;
+    color: white;
+  font-size: 40px;  
+  width: 300px;
+    font-weight:400, 700;
+    text-align: center;
+  }
+
+  .card2-body{
+    text-align: center;
+  color: antiquewhite;
+  font-size: 14px;
+  margin: 10px;
+  padding: 0 50PX;
+
+  }
+  
